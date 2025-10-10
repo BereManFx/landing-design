@@ -213,12 +213,7 @@ button {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    /* gap: 200px; */
     align-items: center;
-    /* padding-top: 10px; */
-    /* padding-bottom: 10px; */
-    /* padding-left: 150px; */
-    /* padding-right: 150px; */
     margin-bottom: 150px;
     box-sizing: border-box;
     border-radius: 10px;
